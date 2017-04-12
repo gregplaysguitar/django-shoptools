@@ -1,2 +1,3 @@
 Django
 django-countries
+flake8
